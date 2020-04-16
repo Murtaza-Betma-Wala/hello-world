@@ -1,4 +1,2 @@
 # hello-world
-my first repository
-Hii Humans!!!
-Betbot here!!
+## This is a markdown file
